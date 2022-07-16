@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and computer science
 - 🌱 I’m currently learning cs50
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reace me @ abdullah.mughal9388@gmail.com
+- 📫 Reach me @ abdullah.mughal9388@gmail.com
 
 <!---
 Abdullah018/Abdullah018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
